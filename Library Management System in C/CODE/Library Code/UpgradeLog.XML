@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Library Management">
+</Property><Property Name="Solution File" Value="D:\Home\Downloads\Library-Management-System\Library Management.sln">
+</Property><Property Name="User Options File" Value="D:\Home\Downloads\Library-Management-System\Library Management.suo">
+</Property><Property Name="Date" Value="Sunday, October 20, 2013">
+</Property><Property Name="Time" Value="23:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Library Management.sln" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\Library Management.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Library Management.suo" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\Library Management.suo">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="Library Management.csproj" Description="Project file successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\Library Management.csproj">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="Library Management.csproj.user" Description="Project user file successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\Library Management.csproj.user">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="Action.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\Action.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="AddBooks.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\AddBooks.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="Category.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\Category.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="ChangePassword.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\ChangePassword.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="EncryptDecrypt.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\EncryptDecrypt.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="Globals.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\Globals.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="MainForm.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="RegisterUser.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\RegisterUser.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="ReturnBook.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\ReturnBook.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="SearchBooks.cs" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\SearchBooks.cs">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="App.config" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\App.config">
+</Event><Event ErrorLevel="2" Project="Library Management" Source="bin\Debug\Library Management.exe.config" Description="Failed to backup file as D:\Home\Downloads\Library-Management-System\Backup\bin\Debug\Library Management.exe.config">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="App.ico" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\App.ico">
+</Event><Event ErrorLevel="2" Project="Library Management" Source="bin\Debug\DbConfig.txt" Description="Failed to backup file as D:\Home\Downloads\Library-Management-System\Backup\bin\Debug\DbConfig.txt">
+</Event><Event ErrorLevel="2" Project="Library Management" Source="bin\Debug\Library Management.exe" Description="Failed to backup file as D:\Home\Downloads\Library-Management-System\Backup\bin\Debug\Library Management.exe">
+</Event><Event ErrorLevel="2" Project="Library Management" Source="bin\Debug\Library Management.pdb" Description="Failed to backup file as D:\Home\Downloads\Library-Management-System\Backup\bin\Debug\Library Management.pdb">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="Action.resx" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\Action.resx">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="AddBooks.resx" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\AddBooks.resx">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="Category.resx" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\Category.resx">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="ChangePassword.resx" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\ChangePassword.resx">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="MainForm.resx" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="RegisterUser.resx" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\RegisterUser.resx">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="ReturnBook.resx" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\ReturnBook.resx">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="SearchBooks.resx" Description="File successfully backed up as D:\Home\Downloads\Library-Management-System\Backup\SearchBooks.resx">
+</Event><Event ErrorLevel="1" Project="Library Management" Source="Library Management.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="Library Management.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Library Management" Source="Library Management.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Library Management.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Library Management.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Library Management" Source="Library Management.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

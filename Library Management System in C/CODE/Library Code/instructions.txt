@@ -1,0 +1,9 @@
+Run library.sql
+
+It creates library db in c:\Program Files\Microsoft SQL Server\MSSQL\data\Library_Data.MDF if your Server is installed in some other location please change the path
+
+After installing db run the code and you are ready to run the project.
+
+or run LibraryManagement exe after extracting from debug.zip file
+
+Word document Library can be referred for screen shots
